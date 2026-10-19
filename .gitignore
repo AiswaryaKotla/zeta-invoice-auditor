@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+
+data/uploaded_invoices.csv
+data/uploaded_purchase_orders.csv
+data/uploaded_reconciliation_findings.csv
+data/reconciliation_findings.csv
